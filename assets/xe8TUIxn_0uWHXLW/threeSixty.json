@@ -1,0 +1,29 @@
+{
+  "version": "3.38.21861.0",
+  "scenes": [
+    {
+      "title": "Escena sin título"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6H0bX7fYiPM",
+      "title": "1",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6Y58qrzgfLW",
+      "title": "Diapositiva de resultados",
+      "scene_index": "1.2"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1940,
+    "height": 1151
+  },
+  "stage": {
+    "width": 1920,
+    "height": 1080
+  }
+}
