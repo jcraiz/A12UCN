@@ -1,0 +1,39 @@
+{
+  "version": "3.38.21861.0",
+  "scenes": [
+    {
+      "title": "Escena sin título"
+    }
+  ],
+  "slides": [
+    {
+      "id": "60ubCtcSlM2",
+      "title": "principal",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6VjiPLlfdmL",
+      "title": "affirmative",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6kS1lsMQxnV",
+      "title": "negative",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6byXMLJgEGP",
+      "title": "interrogative",
+      "scene_index": "1.4"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 560
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
